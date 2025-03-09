@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1962ed92-fc41-400d-81fd-14ed74bf3972" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="idePostSync" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1.20.3" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1.20.3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1.20.3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="neogradle/runs" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1.20.3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fVg24ojdg27kHXOqZhLVWlfcGH" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.1.20.2 [idePostSync].executor": "Run",
+    "Gradle.1.20.2 [runClient].executor": "Run",
+    "Gradle.1.20.3 [idePostSync].executor": "Run",
+    "Gradle.CURSEFORGE_TOKEN.executor": "Run",
+    "Gradle.MODRINTH_TOKEN.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programmazione/Mod/Reinforced Obsidian/NEOFORGE/1.20.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.MODRINTH_TOKEN">
+    <configuration name="1.20.2: Client" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\resources\main;1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.2.main" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeclientuserdev --version 20.2.86 --assetIndex asset-index --assetsDir C:\Users\rosar\.gradle\caches\minecraft\assets\1.20.2 --gameDir . --fml.neoForgeVersion 20.2.86 --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dforge.logging.console.level=debug -Dneoforge.enableGameTest=true -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\steps\writeMinecraftClasspathClient\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="clientIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.2: Data" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\resources\main;1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.2.main" />
+      <option name="PROGRAM_PARAMETERS" value="--mod reinforcedobsidian --all --output &quot;D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\src\generated\resources&quot; --existing &quot;D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\src\main\resources&quot; --launchTarget forgedatauserdev --assetIndex asset-index --assetsDir C:\Users\rosar\.gradle\caches\minecraft\assets\1.20.2 --gameDir . --fml.neoForgeVersion 20.2.86 --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\steps\writeMinecraftClasspathData\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="dataIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.2: GameTestServer" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\resources\main;1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.2.main" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeserveruserdev --gameDir . --fml.neoForgeVersion 20.2.86 --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dneoforge.enableGameTest=true -Dneoforge.gameTestServer=true -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\steps\writeMinecraftClasspathGameTestServer\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/gameTestServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="gameTestServerIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.2: Server" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\resources\main;1.20.2%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.2.main" />
+      <option name="PROGRAM_PARAMETERS" value="--nogui --launchTarget forgeserveruserdev --gameDir . --fml.neoForgeVersion 20.2.86 --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.2 --fml.neoFormVersion 20231019.002635" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.2\build\neoForm\neoFormJoined1.20.2-20231019.002635\steps\writeMinecraftClasspathServer\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="serverIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.3: Client" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\resources\main;1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.3.main" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeclientuserdev --version 20.3.8-beta --assetIndex asset-index --assetsDir C:\Users\rosar\.gradle\caches\minecraft\assets\1.20.3 --gameDir . --fml.neoForgeVersion 20.3.8-beta --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.3 --fml.neoFormVersion 20231205.165107" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dforge.logging.console.level=debug -Dneoforge.enableGameTest=true -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\writeMinecraftClasspathClient\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="clientIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.3: Data" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\resources\main;1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.3.main" />
+      <option name="PROGRAM_PARAMETERS" value="--mod reinforcedobsidian --all --output &quot;D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\src\generated\resources&quot; --existing &quot;D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\src\main\resources&quot; --launchTarget forgedatauserdev --assetIndex asset-index --assetsDir C:\Users\rosar\.gradle\caches\minecraft\assets\1.20.3 --gameDir . --fml.neoForgeVersion 20.3.8-beta --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.3 --fml.neoFormVersion 20231205.165107" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\writeMinecraftClasspathData\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="dataIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.3: GameTestServer" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\resources\main;1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.3.main" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeserveruserdev --gameDir . --fml.neoForgeVersion 20.3.8-beta --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.3 --fml.neoFormVersion 20231205.165107" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dneoforge.enableGameTest=true -Dneoforge.gameTestServer=true -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\writeMinecraftClasspathGameTestServer\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/gameTestServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="gameTestServerIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.3: Server" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\resources\main;1.20.3%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\classes\java\main" />
+        <env name="MCP_MAPPINGS" value="D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\unpacked\config\joined.srg" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="1.20.3.main" />
+      <option name="PROGRAM_PARAMETERS" value="--nogui --launchTarget forgeserveruserdev --gameDir . --fml.neoForgeVersion 20.3.8-beta --fml.fmlVersion 1.0.16 --fml.mcVersion 1.20.3 --fml.neoFormVersion 20231205.165107" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.24\21e16217c30688d99200796f5d828ad5b671141c\securejarhandler-2.1.24.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.0\ef7e5716525bbe50c784a362f9393457a33e6daf\JarJarFileSystems-0.4.0.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\rosar\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES &quot;-DlegacyClassPath.file=D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\writeMinecraftClasspathServer\classpath.txt&quot; -DignoreList=securejarhandler-2.1.24.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-1.1.2.jar,JarJarFileSystems-0.4.0.jar,events-1.0.16.jar,core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar,mixinextras-neoforge-0.3.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries=events-1.0.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enabledGameTestNamespaces=reinforcedobsidian -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=core-1.0.16.jar,language-java-1.0.16.jar,language-lowcode-1.0.16.jar,language-minecraft-1.0.16.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runs/server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="serverIdeBeforeRun" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="1.20.2 [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CURSEFORGE_TOKEN" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="env">
+          <map>
+            <entry key="CURSEFORGE_TOKEN" value="58ce61ec-1e0b-4bd0-bef5-cbbb3af9d959" />
+          </map>
+        </option>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishCurseforge" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="MODRINTH_TOKEN" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="env">
+          <map>
+            <entry key="MODRINTH_TOKEN" value="mrp_x5umIFyFrah1EZ6eUtGPsw1i50MU4EgbRgwJbnNEedVIuRrqlohbzJEbKiCX" />
+          </map>
+        </option>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishModrinth" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.1.20.3: Client" />
+      <item itemvalue="Application.1.20.3: Data" />
+      <item itemvalue="Application.1.20.3: GameTestServer" />
+      <item itemvalue="Application.1.20.3: Server" />
+      <item itemvalue="Application.1.20.2: Client" />
+      <item itemvalue="Application.1.20.2: Data" />
+      <item itemvalue="Application.1.20.2: GameTestServer" />
+      <item itemvalue="Application.1.20.2: Server" />
+      <item itemvalue="Gradle.MODRINTH_TOKEN" />
+      <item itemvalue="Gradle.1.20.2 [runClient]" />
+      <item itemvalue="Gradle.CURSEFORGE_TOKEN" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CURSEFORGE_TOKEN" />
+        <item itemvalue="Gradle.1.20.2 [runClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1962ed92-fc41-400d-81fd-14ed74bf3972" name="Changes" comment="" />
+      <created>1713891456137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713891456137</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+JVM Args:          
+Run Args:          "--client", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\stripClient\output.jar", "--server", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\stripServer\output.jar", "--ann", "1.20.3", "--output", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\merge\output.jar", "--inject", "false"
+JVM:               C:\Users\rosar\.jdks\corretto-17.0.10\bin\java.exe
+Classpath:         C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged\mergetool\2.0.2\f65ce45660841dcf1a58363fdcef0dab4d5a26c8\mergetool-2.0.2-fatjar.jar
+Working Dir:       D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\merge
+Main Class:        net.neoforged.mergetool.ConsoleMerger
+Program log file:  D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\merge\log.log
+Output file:       D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.3\build\neoForm\neoFormJoined1.20.3-20231205.165107\steps\merge\output.jar

@@ -1,0 +1,49 @@
+package com.blocklegend001.reinforcedobsidian.datagen;
+
+import net.minecraft.core.HolderLookup;
+import net.minecraft.data.PackOutput;
+import net.minecraft.data.recipes.RecipeCategory;
+import net.minecraft.data.recipes.RecipeOutput;
+import net.minecraft.data.recipes.RecipeProvider;
+import net.minecraft.data.recipes.ShapedRecipeBuilder;
+import net.minecraft.world.level.block.Blocks;
+import net.neoforged.neoforge.common.conditions.IConditionBuilder;
+
+import java.util.concurrent.CompletableFuture;
+
+import static com.blocklegend001.reinforcedobsidian.ReinforcedObsidian.REINFORCED_OBSIDIAN_BLOCK;
+
+public class ModRecipeProvider extends RecipeProvider implements IConditionBuilder {
+    protected ModRecipeProvider(HolderLookup.Provider p_360573_, RecipeOutput p_360872_) {
+        super(p_360573_, p_360872_);
+    }
+
+    public static class Runner extends RecipeProvider.Runner {
+        public Runner(PackOutput output, CompletableFuture<HolderLookup.Provider> providerCompletableFuture) {
+            super(output, providerCompletableFuture);
+        }
+
+        @Override
+        protected RecipeProvider createRecipeProvider(HolderLookup.Provider provider, RecipeOutput recipeOutput) {
+            return new ModRecipeProvider(provider, recipeOutput);
+        }
+
+        @Override
+        public String getName() {
+            return "Recipes";
+        }
+    }
+
+    @Override
+    protected void buildRecipes() {
+        shaped(RecipeCategory.BUILDING_BLOCKS, REINFORCED_OBSIDIAN_BLOCK.get())
+                .pattern(" I ")
+                .pattern("IOI")
+                .pattern(" I ")
+                .define('I', Blocks.IRON_BARS)
+                .define('O', Blocks.OBSIDIAN)
+                .unlockedBy("has_iron_bars", has(Blocks.IRON_BARS))
+                .unlockedBy("has_obsidian", has(Blocks.OBSIDIAN))
+                .save(this.output);
+    }
+}

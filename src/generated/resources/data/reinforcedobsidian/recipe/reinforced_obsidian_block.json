@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IOI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "reinforcedobsidian:reinforced_obsidian_block"
+  }
+}

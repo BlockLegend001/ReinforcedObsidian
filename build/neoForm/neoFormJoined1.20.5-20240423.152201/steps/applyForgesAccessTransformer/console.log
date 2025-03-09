@@ -1,0 +1,8 @@
+JVM Args:          
+Run Args:          "--inJar", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\steps\rename\output.jar", "--outJar", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\steps\applyForgesAccessTransformer\output.jar", "--atFile", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\accesstransformers\Forges\accesstransformer.cfg", "--atFile", "D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\accesstransformers\Forges\_script_neoforge.cfg"
+JVM:               C:\Users\rosar\.jdks\corretto-21.0.3\bin\java.exe
+Classpath:         C:\Users\rosar\.gradle\caches\modules-2\files-2.1\net.neoforged.accesstransformers\at-cli\10.0.2\b5e9c69c0556953dd0b89348f0c1ac3f8caffaf3\at-cli-10.0.2-fatjar.jar
+Working Dir:       D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\steps\applyForgesAccessTransformer
+Main Class:        net.neoforged.accesstransformer.cli.TransformerProcessor
+Program log file:  D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\steps\applyForgesAccessTransformer\log.log
+Output file:       D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.20.5\build\neoForm\neoFormJoined1.20.5-20240423.152201\steps\applyForgesAccessTransformer\output.jar

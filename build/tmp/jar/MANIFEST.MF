@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: reinforcedobsidian
+Specification-Vendor: Block_Legend001
+Specification-Version: 1
+Implementation-Title: ReinforcedObsidian
+Implementation-Version: 1.20.3-0.1
+Implementation-Vendor: Block_Legend001
+

@@ -1,0 +1,41 @@
+[09:10:44] [main/INFO]: ModLauncher running: args [--mod, reinforcedobsidian, --all, --output, D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\src\generated\resources, --existing, D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\src\main\resources, --launchTarget, neoforgeclientdatadev, --assetIndex, asset-index, --assetsDir, C:\Users\rosar\.gradle\caches\minecraft\assets, --fml.fmlVersion, 8.0.5, --fml.mcVersion, 1.21.6, --fml.neoForgeVersion, 21.6.19-beta, --fml.neoFormVersion, 20250617.151856]
+[09:10:44] [main/INFO]: JVM identified as Amazon.com Inc. OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[09:10:44] [main/INFO]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.6 by Amazon.com Inc.; OS Windows 11 arch amd64 version 10.0
+[09:10:44] [main/WARN]: Configuration file D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\runs\clientData\config\fml.toml is not correct. Correcting
+[09:10:44] [main/WARN]: Incorrect key [earlyLoadingScreenTheme] was corrected from null to 
+[09:10:44] [main/WARN]: Incorrect key [earlyWindowFBScale] was corrected from 1 to null
+[09:10:44] [main/WARN]: Incorrect key [earlyWindowSquir] was corrected from false to null
+[09:10:44] [main/INFO]: ImmediateWindowProvider not loading because launch target is neoforgeclientdatadev
+[09:10:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/rosar/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23167!/ Service=ModLauncher Env=CLIENT
+[09:10:44] [main/INFO]: Found mod file "neoforge-21.6.19-beta.jar" [locator: neoforge devenv provider ([D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.6.19-beta\neoforge-21.6.19-beta.jar])]
+[09:10:44] [main/INFO]: Found mod file "neoforge-21.6.19-beta.jar" [locator: neoforge devenv provider ([D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.6.19-beta\neoforge-21.6.19-beta.jar])]
+[09:10:44] [main/INFO]: Found mod file "main" [locator: userdev mods and services, reader: mod manifest]
+[09:10:44] [main/INFO]: Found mod file "neoforge-21.6.19-beta.jar" [locator: userdev mods and services, reader: mod manifest]
+[09:10:44] [main/INFO]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [locator: userdev mods and services, reader: mod manifest]
+[09:10:45] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: library:mixinextras.neoforge. Using Mod File: C:\Users\rosar\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.4.1\eff97772ecd0dcf8e52cdbafd3b3ccec425f8314\mixinextras-neoforge-0.4.1.jar
+[09:10:45] [main/INFO]: Found 1 dependencies adding them to mods collection
+[09:10:45] [main/INFO]: Found library file "net.neoforged.neoforge-coremods-21.6.19-beta.jar" [parent: neoforge-21.6.19-beta.jar, locator: jarinjar, reader: mod manifest]
+[09:10:45] [main/INFO]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Minecraft 1.21.6 (minecraft)
+		NeoForge 21.6.19-beta (neoforge)
+		ReinforcedObsidian 1.21.6-0.1 (reinforcedobsidian)
+[09:10:45] [main/ERROR]: Access transformer file META-INF/accesstransformer.cfg provided by mod reinforcedobsidian does not exist!
+[09:10:45] [main/INFO]: Launching target 'neoforgeclientdatadev' with arguments [--assetsDir, C:\Users\rosar\.gradle\caches\minecraft\assets, --mod, reinforcedobsidian, --all, --output, D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\src\generated\resources, --existing, D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.6\src\main\resources, --assetIndex, asset-index]
+[30giu2025 09:10:46.286] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30giu2025 09:10:52.097] [main/INFO] [net.neoforged.neoforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [reinforcedobsidian]
+[30giu2025 09:10:52.156] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.6.19-beta, for MC 1.21.6
+[30giu2025 09:10:52.667] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Programmazione/Mod/Reinforced%20Obsidian/NEOFORGE/1.21.6/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.6.19-beta/neoforge-21.6.19-beta.jar%23222!/assets/.mcassetsroot' uses unexpected schema
+[30giu2025 09:10:52.668] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Programmazione/Mod/Reinforced%20Obsidian/NEOFORGE/1.21.6/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.6.19-beta/neoforge-21.6.19-beta.jar%23222!/data/.mcassetsroot' uses unexpected schema
+[30giu2025 09:10:53.046] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[30giu2025 09:10:53.082] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 36 ms
+[30giu2025 09:10:53.083] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[30giu2025 09:10:53.099] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 15 ms
+[30giu2025 09:10:53.099] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id reinforcedobsidian
+[30giu2025 09:10:53.108] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id reinforcedobsidian finished after 8 ms
+[30giu2025 09:10:53.108] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Model Definitions - reinforcedobsidian
+[30giu2025 09:10:53.169] [main/INFO] [net.minecraft.data.DataGenerator/]: Model Definitions - reinforcedobsidian finished after 59 ms
+[30giu2025 09:10:53.169] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 122 ms
+[30giu2025 09:10:53.179] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 9, old count: 0, new count: 10, removed stale: 0, written: 9

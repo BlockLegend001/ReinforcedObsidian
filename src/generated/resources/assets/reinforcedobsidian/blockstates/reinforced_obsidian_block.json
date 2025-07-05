@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "reinforcedobsidian:block/reinforced_obsidian_block"
+    }
+  }
+}

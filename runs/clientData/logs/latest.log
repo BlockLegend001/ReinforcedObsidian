@@ -1,0 +1,42 @@
+[07ott2025 23:07:34.601] [main/INFO] [net.neoforged.fml.startup.Entrypoint/]: JVM Uptime at startup: 121ms
+[07ott2025 23:07:34.617] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Starting FancyModLoader version 10.0.14 (CLIENT in DEV)
+[07ott2025 23:07:34.617] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Game directory: D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\runs\clientData
+[07ott2025 23:07:34.665] [main/INFO] [net.neoforged.fml.loading.EarlyServiceDiscovery/]: Found 0 early service jars (out of 0) in 6ms
+[07ott2025 23:07:34.666] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Not loading early display in headless mode.
+[07ott2025 23:07:34.717] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.GameLocator/]: Detected a joined NeoForge and Minecraft configuration. Applying filtering...
+[07ott2025 23:07:34.793] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.InDevFolderLocator/CORE]: Got mod coordinates 1.21.9%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\build\resources\main;1.21.9%%D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\build\classes\java\main from env
+[07ott2025 23:07:34.809] [main/ERROR] [net.neoforged.fml.loading.moddiscovery.ModFile/LOADING]: Access transformer file META-INF/accesstransformer.cfg provided by mod reinforcedobsidian does not exist!
+[07ott2025 23:07:34.952] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:mixinextras.neoforge. Using Jar[C:\Users\rosar\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.5.0\d734b83ce6542bb70ea31755c1595b88992dbe65\mixinextras-neoforge-0.5.0.jar]
+[07ott2025 23:07:34.952] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[07ott2025 23:07:34.954] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Minecraft 1.21.9 (minecraft)
+		NeoForge 21.9.16-beta (neoforge)
+		ReinforcedObsidian 1.21.9-0.1 (reinforcedobsidian)
+[07ott2025 23:07:35.095] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/rosar/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/26d01f0567ab46e9ca0d2ed89d0ecc11aadbd433/sponge-mixin-0.16.4+mixin.0.8.7.jar Service=FML Env=CLIENT
+[07ott2025 23:07:35.153] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Loading FML Plugins:
+[07ott2025 23:07:35.153] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - D:/Programmazione/Mod/Reinforced Obsidian/NEOFORGE/1.21.9/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.9.16-beta/neoforge-21.9.16-beta.jar > net.neoforged.neoforge-coremods-21.9.16-beta.jar
+[07ott2025 23:07:35.380] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Building game content classloader:
+ - minecraft (composite(jar(D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\.gradle\repositories\ng_dummy_ng\net\minecraft\client\1.21.9\client-1.21.9-client-extra.jar), filtered(jar(D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.9.16-beta\neoforge-21.9.16-beta.jar))))
+ - mixinextras.neoforge (jar(C:\Users\rosar\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.5.0\d734b83ce6542bb70ea31755c1595b88992dbe65\mixinextras-neoforge-0.5.0.jar))
+ - neoforge (composite(filtered(jar(D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.9.16-beta\neoforge-21.9.16-beta.jar))))
+ - net.neoforged.fml.generated (empty(VirtualJar\net.neoforged.fml.generated))
+ - reinforcedobsidian (composite(folder(D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\build\resources\main), folder(D:\Programmazione\Mod\Reinforced Obsidian\NEOFORGE\1.21.9\build\classes\java\main)))
+[07ott2025 23:07:35.400] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Built game content classloader in 93ms
+[07ott2025 23:07:35.811] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[07ott2025 23:07:40.293] [main/INFO] [net.neoforged.neoforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [reinforcedobsidian]
+[07ott2025 23:07:40.333] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.9.16-beta, for MC 1.21.9
+[07ott2025 23:07:41.046] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[07ott2025 23:07:41.079] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 32 ms
+[07ott2025 23:07:41.079] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[07ott2025 23:07:41.093] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 13 ms
+[07ott2025 23:07:41.093] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id reinforcedobsidian
+[07ott2025 23:07:41.104] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id reinforcedobsidian finished after 10 ms
+[07ott2025 23:07:41.104] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Model Definitions - reinforcedobsidian
+[07ott2025 23:07:41.152] [main/INFO] [net.minecraft.data.DataGenerator/]: Model Definitions - reinforcedobsidian finished after 48 ms
+[07ott2025 23:07:41.152] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 106 ms
+[07ott2025 23:07:41.159] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 9, old count: 0, new count: 10, removed stale: 0, written: 9
+[07ott2025 23:07:41.159] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Closing FML Loader 439c17ac
+[07ott2025 23:07:41.159] [main/INFO] [net.neoforged.fml.ModLoader/]: Clearing ModLoader

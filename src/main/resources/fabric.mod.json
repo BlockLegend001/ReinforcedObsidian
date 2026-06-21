@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "reinforcedobsidian",
+  "version": "${version}",
+  "name": "ReinforcedObsidian",
+  "description": "Adds a block called reinforced obsidian, indestructible by the wither and any type of explosion",
+  "authors": [
+    "Block_Legend001"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/reinforcedobsidian/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.blocklegend001.reinforcedobsidian.client.ReinforcedObsidianClient"
+    ],
+    "main": [
+      "com.blocklegend001.reinforcedobsidian.ReinforcedObsidian"
+    ],
+    "fabric-datagen": [
+      "com.blocklegend001.reinforcedobsidian.datagen.DataGenerators"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

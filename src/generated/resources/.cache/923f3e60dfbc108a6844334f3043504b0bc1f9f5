@@ -1,0 +1,4 @@
+// 26.1.1	2026-06-20T19:55:55.3099004	Tags for minecraft:block mod id reinforcedobsidian
+904b1a25de86f519b9d90708f0cddb786efb8c16 data/minecraft/tags/block/mineable/pickaxe.json
+904b1a25de86f519b9d90708f0cddb786efb8c16 data/minecraft/tags/block/needs_diamond_tool.json
+904b1a25de86f519b9d90708f0cddb786efb8c16 data/minecraft/tags/block/wither_immune.json

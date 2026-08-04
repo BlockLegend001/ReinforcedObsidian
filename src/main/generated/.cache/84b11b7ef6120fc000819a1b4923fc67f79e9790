@@ -1,0 +1,4 @@
+// 26.2	-999999999-01-01T00:00:00	ReinforcedObsidian/Tags for minecraft:block
+72cabecbcc96e997b5341fbb3dae2f0e8511fb0d data/minecraft/tags/block/mineable/pickaxe.json
+72cabecbcc96e997b5341fbb3dae2f0e8511fb0d data/minecraft/tags/block/needs_diamond_tool.json
+72cabecbcc96e997b5341fbb3dae2f0e8511fb0d data/minecraft/tags/block/wither_immune.json
